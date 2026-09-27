@@ -41,3 +41,5 @@ my_playlist = Playlist("Favorites")
 my_playlist.add_song("Bohemian Rhapsody")
 my_playlist.add_song("Stairway to Heaven")
 my_playlist.show_songs()
+
+#Метод __str__() - это волшебный метод, который управляет тем, что возвращается при печати объекта или передаче в str().
